@@ -1,6 +1,4 @@
-Below is a sample README that help in explaining the data cleaning process:
 
----
 
 ## Data Cleaning Scripts
 
