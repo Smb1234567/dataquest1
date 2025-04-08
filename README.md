@@ -39,8 +39,4 @@ This repository includes a set of Python scripts that clean and preprocess four 
 
 ### How to Run
 
-Each script is self-contained and uses `pandas` for data processing. Simply run the scripts in your Python environment to generate the cleaned CSV files.
-
----
-
-This documentation provides a clear outline of the steps taken to ensure the datasets are ready for analysis, contributing to reproducible and reliable data-driven projects.
+Each script is self-contained and uses `pandas` for data processing. Simply run the scripts in your Python environment to generate the cleaned CSV files
