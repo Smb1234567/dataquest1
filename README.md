@@ -1,4 +1,4 @@
-Below is a sample README section you can add to your repository to explain the data cleaning process:
+Below is a sample README that help in explaining the data cleaning process:
 
 ---
 
